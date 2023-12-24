@@ -65,6 +65,7 @@ public class MainVisualizer extends JFrame {
         queueVisualizer.setVisible(true);
     }
 
+    // mahmoud osama
     private void openLinkedListVisualizer() {
         LinkedListVisualizer linkedListVisualizer = new LinkedListVisualizer();
         linkedListVisualizer.setVisible(true);
